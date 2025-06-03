@@ -21,7 +21,7 @@ I'm a passionate Computer Science Student at the University of Florida specializ
 
 ## 📫 Connect with me
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/lucas-romero-wyhnanskyj/))
+- 💼 LinkedIn: www.linkedin.com/in/lucas-romero-wyhnanskyj/
 - 📧 Email: lucasr.w101@gmail.com
 
 ## 🤔 Fun Fact
