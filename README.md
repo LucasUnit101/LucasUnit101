@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I’m Lucas Romero-Wyhnanskyj!
 
-<!--
-**LucasUnit101/LucasUnit101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science Student at the University of Florida specializing in modern Full-Stack development.
 
-Here are some ideas to get you started:
+## 🛠 Top Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages
+- Python, JavaScript, TypeScript, C++, C, C#, HTML, CSS, SQL, Bash
+
+### 🧰 Frameworks & Libraries
+- **Frontend:** React.js, Next.js, Tailwind CSS, Svelte  
+- **Backend:** Node.js, Django, Supabase  
+- **Database:** MongoDB, SQL-based DBs  
+- **Tools:** Linux, Git, Docker
+
+### 📜 Certificates
+- NVIDIA Deep Learning Certificate  
+- Google Cybersecurity Professional Certificate
+- CodePath Intermediate Cybersecurity Course Certificate
+- CodePath Technical Interview Prep Course Certificate
+
+## 🌱 Currently
+
+- Gaining hands-on experience as a Software Engineer Intern
+- Exploring new tools and frameworks to expand my expertise
+- Collaborating with teams and contributing to impactful projects
+
+## 📫 Connect with me
+
+- 💼 [LinkedIn]((https://www.linkedin.com/in/lucas-romero-wyhnanskyj/))
+- 📧 Email: lucasr.w101@gmail.com
+
+## 🤔 Fun Fact
+
+My second to last name is Ukrainian 🇺🇦
+
+---
+
+Thanks for stopping by! Feel free to reach out or connect if you want to chat about web development, software engineering, or tech in general.
