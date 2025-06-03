@@ -13,12 +13,6 @@ I'm a passionate Computer Science Student at the University of Florida specializ
 - **Database:** MongoDB, SQL-based DBs  
 - **Tools:** Linux, Git, Docker
 
-### 📜 Certificates
-- NVIDIA Deep Learning Certificate  
-- Google Cybersecurity Professional Certificate
-- CodePath Intermediate Cybersecurity Course Certificate
-- CodePath Technical Interview Prep Course Certificate
-
 ## 🌱 Currently
 
 - Gaining hands-on experience as a Software Engineer Intern
