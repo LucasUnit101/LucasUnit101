@@ -24,10 +24,6 @@ I'm a passionate Computer Science Student at the University of Florida specializ
 - 💼 LinkedIn: www.linkedin.com/in/lucas-romero-wyhnanskyj/
 - 📧 Email: lucasr.w101@gmail.com
 
-## 🤔 Fun Fact
-
-My second to last name is Ukrainian 🇺🇦
-
 ---
 
 Thanks for stopping by! Feel free to reach out or connect if you want to chat about web development, software engineering, or tech in general.
