@@ -5,13 +5,13 @@ I'm a passionate Computer Science Student at the University of Florida specializ
 ## 🛠 Top Skills
 
 ### 💻 Languages
-- Python, JavaScript, TypeScript, C++, C, C#, HTML, CSS, SQL, Bash
+- Python, JavaScript, TypeScript, HTML, CSS, C++, C, Java, SQL, Linux/Bash
 
 ### 🧰 Frameworks & Libraries
-- **Frontend:** React.js, Next.js, Tailwind CSS, Svelte  
-- **Backend:** Node.js, Django, Supabase  
-- **Database:** MongoDB, SQL-based DBs  
-- **Tools:** Linux, Git, Docker
+- **Frontend:** React.js, Next.js, Svelte, Tailwind CSS
+- **Backend:** Node.js, Django, Spring Boot, Express.js
+- **Database:** MongoDB, SQL-based DBs
+- **Tools:** Docker, Git, GitHub, AWS, Convex, Gemini AI, LangChain
 
 ## 🌱 Currently
 
@@ -22,8 +22,5 @@ I'm a passionate Computer Science Student at the University of Florida specializ
 ## 📫 Connect with me
 
 - 💼 LinkedIn: www.linkedin.com/in/lucas-romero-wyhnanskyj/
-- 📧 Email: lucasr.w101@gmail.com
+- 📧 Email: lromerowyhnansky@ufl.edu
 
----
-
-Thanks for stopping by! Feel free to reach out or connect if you want to chat about web development, software engineering, or tech in general.
